@@ -127,6 +127,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="clientapp\src\components\AboutUsComponent.js" />
+    <Content Include="clientapp\src\components\AllResultComponent.js" />
+    <Content Include="clientapp\src\components\ContactComponent.js" />
+    <Content Include="clientapp\src\components\CreateAccountComponent.js" />
+    <Content Include="clientapp\src\components\DashboardComponent.js" />
+    <Content Include="clientapp\src\components\LoginComponent.js" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
