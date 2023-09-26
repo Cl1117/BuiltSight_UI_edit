@@ -6,3 +6,4 @@ How to run this web app? (Using Windows)
 5. In the file location bar, type in "cmd"
 6. Type in command "npm start".
 7. The web app will show up in your default browser, if not you can type in "http://localhost:3000" into your browser.
+Thanks.
