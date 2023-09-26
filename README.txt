@@ -1,5 +1,5 @@
 How to run this web app? (Using Windows)
-1. Open BuiltSight_UI_edit.sln in Visual Studio Community. Select branch "jsx-starting-point".
+1. Open BuiltSight_UI_edit.sln in Visual Studio Community. Select branch "master".
 2. In the Solution Explorer, right click "BuiltSight_UI_edit" (with a green ball icon).
 3. Select "Open Folder in File Explorer".
 4. Locate the folder "clientapp", double click it.
